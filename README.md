@@ -36,3 +36,17 @@ eg : key ={index}
 
 #default export
 #named export-> TO export multiple things in single file
+
+#onClick is an attribute that takes callback function
+
+#React can do faster DOM manipulation
+--> State is a super powerful variables (useState Hook used to create this super powerful variable)
+React Hook - a normal js function that comes with some super power (utility function)
+-useState()->to generate state variable
+-useEffect()
+
+#whenever a state variable changes , react will rerender the component
+
+#Reconciliation Algorithm or React Fiber :
+-virtual DOM is representation of real DOM
+#Diff Algo : finds the diff between updated and previous Virtual DOM
